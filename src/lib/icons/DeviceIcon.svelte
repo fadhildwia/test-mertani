@@ -1,0 +1,9 @@
+<script>
+  export let size = 24;
+  export let color = "currentColor";
+</script>
+
+<svg width={size} height={size} viewBox="0 0 20 20" fill={color} xmlns="http://www.w3.org/2000/svg">
+<rect x="1.65912" y="2.56824" width="16.6818" height="14.8636" rx="2.88636" stroke="#FFA000" stroke-width="1.5"/>
+<path d="M7.27295 13.5455H12.7275" stroke="#FFA000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
